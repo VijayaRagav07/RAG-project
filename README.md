@@ -1,4 +1,4 @@
-# Simple-RAG Playground
+# Parsed Answer and Summary Engine-RAG Playground
 
 A modular, highly polished Retrieval-Augmented Generation (RAG) platform built with Streamlit, FAISS, and Gemini/Ollama. This application allows you to index local PDF documents, query them, and get synthesized answers with direct source page citations.
 
