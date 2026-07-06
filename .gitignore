@@ -1,0 +1,27 @@
+# Local environment variables
+.env
+
+# Python build & cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# RAG local database and uploads
+data/
+data/uploads/
+data/faiss_index/
+*.pkl
+*.npy
+*.faiss
+
+# IDE settings
+.vscode/
+.idea/
