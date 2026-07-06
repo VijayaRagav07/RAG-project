@@ -12,7 +12,7 @@ from utils.helpers import inject_styles
 
 # Set Page Config
 st.set_page_config(
-    page_title="Simple-RAG Playground",
+    page_title="Parsed Answer and Summary Engine-RAG Playground",
     page_icon="🧠",
     layout="wide",
     initial_sidebar_state="expanded"
